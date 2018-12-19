@@ -1,0 +1,2 @@
+FROM losant/edge-agent:latest-arm
+EXPOSE 8080/tcp
